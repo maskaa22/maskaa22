@@ -4,7 +4,7 @@
   
 
 <br/>  
-##Hi! My name is Maria
+## Hi! My name is Maria
 =============================================================================================================================
 
 Junior Full Stack Developer with experience in building dynamic and responsive web applications. Proficient in React, Node.js, TypeScript, JavaScript, and MongoDB. Strong problem-solving skills, collaborative team player, and passionate about learning new technologies, improving development workflows, and continuous self-development
