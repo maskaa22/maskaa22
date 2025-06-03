@@ -61,10 +61,6 @@ Junior Full Stack Developer with experience in building dynamic and responsive w
 
 <br/>  
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-</br>
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maskaa22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
