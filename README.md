@@ -4,7 +4,7 @@
   
 
 <br/>  
-## Hi! My name is Maria
+<h1 align="center">Hi! My name is Maria</h1>
 =============================================================================================================================
 
 Junior Full Stack Developer with experience in building dynamic and responsive web applications. Proficient in React, Node.js, TypeScript, JavaScript, and MongoDB. Strong problem-solving skills, collaborative team player, and passionate about learning new technologies, improving development workflows, and continuous self-development
@@ -63,4 +63,6 @@ Junior Full Stack Developer with experience in building dynamic and responsive w
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maskaa22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/> 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3C!DOCTYPE+html%3E+%3Chtml+lang%3D%22en%22%3E" alt="Typing SVG" /></a>
