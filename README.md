@@ -13,6 +13,7 @@ Junior Full Stack Developer with experience in building dynamic and responsive w
 * ✉️  You can contact me at [kyrosika565@gmail.com](mailto:kyrosika565@gmail.com)
 * 🧠  I'm learning GoIt courses
 
+<br/>  
 ### Skills
 
 
@@ -59,6 +60,7 @@ Junior Full Stack Developer with experience in building dynamic and responsive w
 <br/>  
 
 
-### Socials
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maskaa22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<p align="left"> <a href="https://www.linkedin.com/in/mariia-skydan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
