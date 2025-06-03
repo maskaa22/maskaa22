@@ -11,7 +11,7 @@ Junior Full Stack Developer with experience in building dynamic and responsive w
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3C!DOCTYPE+html%3E+%3Chtml+lang%3D%22en%22%3E" alt="Typing SVG" /></a>
 
-* 🖥️  See my portfolio at [vercel](http://https://resume-react-beige.vercel.app/)
+* 🖥️  See my portfolio at [thisl](http://https://resume-react-beige.vercel.app/)
 * ✉️  You can contact me at [kyrosika565@gmail.com](mailto:kyrosika565@gmail.com)
 * 🧠  I'm learning GoIt courses
 
@@ -60,6 +60,10 @@ Junior Full Stack Developer with experience in building dynamic and responsive w
 </td></tr></table>  
 
 <br/>  
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+</br>
 
 
 ## Github Stats  
