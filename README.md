@@ -16,7 +16,7 @@ Junior Full Stack Developer with experience in building dynamic and responsive w
 * 🧠  I'm learning GoIt courses
 
 <br/>  
-## Skills
+<h2 align="center"> Skills </h2>
 
 
 <table><tr><td valign="top" width="33%">
